@@ -1,10 +1,10 @@
 # Traduora Localization Script
 
-A Swift script to automatically download and update localization files from Traduora translation management platform.
+A Swift script to automatically download and update localization files from [Traduora](https://traduora.co) translation management platform.
 
 ## Overview
 
-This script automates the process of downloading localization files from Traduora and updating your iOS project's `.strings` files. It supports multiple locales and handles authentication automatically.
+This script automates the process of downloading localization files from [Traduora](https://traduora.co) and updating your iOS project's `.strings` files. It supports multiple locales and handles authentication automatically.
 
 ## Features
 
@@ -55,6 +55,14 @@ The script creates the following directory structure:
 - **Never commit `.env` files** to version control
 - Add `.env` to your `.gitignore` file
 - Regularly rotate Traduora credentials
+
+## About Traduora
+
+[Traduora](https://traduora.co) is a modern translation management platform that helps teams manage their localization workflow efficiently. 
+
+- **Website**: https://traduora.co
+- **GitHub Repository**: https://github.com/ever-co/ever-traduora
+- **Documentation**: https://docs.traduora.co
 
 ## License
 
